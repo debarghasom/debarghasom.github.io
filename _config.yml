@@ -91,16 +91,23 @@ al_folio:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-# -----------------------------------------------------------------------------
-# Layout
-# -----------------------------------------------------------------------------
-
+### -----------------------------------------------------------------------------
+### Layout
+### -----------------------------------------------------------------------------
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+
+# Header Navigation - Explicit list to enforce your exact order
+navbar_pages:
+  - about.md
+  - cv.md
+  - projects.md
+  - policy.md
+  - teaching.md
 
 # Dimensions
 max_width: 930px
