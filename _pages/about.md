@@ -27,9 +27,9 @@ social: false
 
 ### Biography
 
-I am a Research Associate at the Centre for Advanced Financial Research and Learning (CAFRAL), Reserve Bank of India. My research focuses on empirical industrial organization, banking, and corporate finance.
+I am a Research Associate at the Centre for Advanced Financial Research and Learning (CAFRAL), Reserve Bank of India. My research focuses on empirical banking, corporate finance, and industrial organization.
 
-Write your full bio here. You can add details regarding your background, current working papers, and ongoing data infrastructure projects.
+I hold a M.Sc in Economics from Indian Institute of Technology Kanpur (IITK), and a B.Sc (Honours) in Economics from Scottish Church College, University of Calcutta.
 
 ---
 
